@@ -1,4 +1,4 @@
-<img align="center" src="Skjermbilde 2022-01-27 kl. 13.49.03.png.jpg" width="100%" height="200px"/>
+<img align="center" src="Skjermbilde 2022-01-27 kl. 13.49.03.png" width="100%"/>
 
 ![](https://komarev.com/ghpvc/?username=martinfkristensen&color=brightgreen)
 
