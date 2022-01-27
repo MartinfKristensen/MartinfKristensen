@@ -1,4 +1,4 @@
-<img align="center" src="pexels-johannes-plenio-1103970.jpg" />
+<img align="center" src="pexels-johannes-plenio-1103970.jpg" height="100px"/>
 
 ![](https://komarev.com/ghpvc/?username=martinfkristensen&color=brightgreen)
 
