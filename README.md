@@ -2,6 +2,8 @@
 - 👀 I’m interested in alpine skiing and coding.
 - 🌱 I’m currently learning Javascript and Jquery
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinfkristensen)](https://github.com/anuraghazra/github-readme-stats)
+
 Find me on:
 <br>
 <a href="https://twitter.com/martyracer" target="_blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" height="35" /></a>
