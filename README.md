@@ -1,4 +1,4 @@
-<img align="center" src="pexels-johannes-plenio-1103970.jpg" width="100%" height="200px"/>
+<img align="center" src="Skjermbilde 2022-01-27 kl. 13.49.03.png.jpg" width="100%" height="200px"/>
 
 ![](https://komarev.com/ghpvc/?username=martinfkristensen&color=brightgreen)
 
